@@ -1,8 +1,8 @@
 {
-	"name": "Oussama Hichou",
+	"name": "Houssam BENSLAMA",
 	"profesion": "Network Engineering Student",
 	"about" : "A Network Engineering Student trying to make sense of this complicated world while doing my best to contribute to the human family.",
-	"image":"https://avatars.githubusercontent.com/u/56653051?v=4",
+	"image":"https://scontent.frba5-1.fna.fbcdn.net/v/t39.30808-6/300236787_902395264053980_8652939046839846250_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHq2f78167kOQMsCL65E459Ijh0rmJOAh8iOHSuYk4CH-6FSl4P4NgX_sjXx-LX6TZXMt3XlFQiDcLUMkbQzku9&_nc_ohc=TwNo79wPXLAAX-9G-sW&_nc_ht=scontent.frba5-1.fna&oh=00_AfDG1OCLd1apA5yQqRFHcclAl3LJipReO7HcNT3KF0NZMA&oe=640CA100",
 	"social":
 			[
 				{
@@ -13,22 +13,22 @@
 				{
 					"id": 2,
 					"title": "LinkedIn",
-					"value": "https://www.linkedin.com/in/oussama-hichou/"
+					"value": "https://www.linkedin.com/in/houssam/"
 				},
 				{
 					"id": 3,
 					"title": "Instagram",
-					"value": "https://www.instagram.com/usmhic/"
+					"value": "https://www.instagram.com/houssam/"
 				},
 				{
 					"id": 4,
 					"title": "Twitter",
-					"value": "https://twitter.com/usmhic"
+					"value": "https://twitter.com/houssam"
 				},
 				{
 					"id": 5,
 					"title": "Email",
-					"value": "mailto:usama.hicho.mail@gmail.com" 
+					"value": "mailto:houssam@gmail.com" 
 				},
 				{
 					"id": 6,
