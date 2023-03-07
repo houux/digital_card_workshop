@@ -2,7 +2,7 @@
 	"name": "Houssam BENSLAMA",
 	"profesion": "Network Engineering Student",
 	"about" : "A Network Engineering Student trying to make sense of this complicated world while doing my best to contribute to the human family.",
-	"image":"https://scontent.frba5-1.fna.fbcdn.net/v/t39.30808-6/300236787_902395264053980_8652939046839846250_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHq2f78167kOQMsCL65E459Ijh0rmJOAh8iOHSuYk4CH-6FSl4P4NgX_sjXx-LX6TZXMt3XlFQiDcLUMkbQzku9&_nc_ohc=TwNo79wPXLAAX-9G-sW&_nc_ht=scontent.frba5-1.fna&oh=00_AfDG1OCLd1apA5yQqRFHcclAl3LJipReO7HcNT3KF0NZMA&oe=640CA100",
+	"image":"https://drive.google.com/file/d/1F_ZkPSGeLePu4uTifMGNCAQUkaDbHxue/view?usp=share_link",
 	"social":
 			[
 				{
@@ -13,12 +13,12 @@
 				{
 					"id": 2,
 					"title": "LinkedIn",
-					"value": "https://www.linkedin.com/in/houssam/"
+					"value": "https://www.linkedin.com/in/houssam-benslama-5b71a1142/"
 				},
 				{
 					"id": 3,
 					"title": "Instagram",
-					"value": "https://www.instagram.com/houssam/"
+					"value": "https://www.instagram.com/houssam_ben0/"
 				},
 				{
 					"id": 4,
@@ -28,17 +28,17 @@
 				{
 					"id": 5,
 					"title": "Email",
-					"value": "mailto:houssam@gmail.com" 
+					"value": "mailto:ben.houssam00@gmail.com" 
 				},
 				{
 					"id": 6,
 					"title": "Website",
-					"value": "https://usmhic.me"
+					"value": "https://houux.me"
 				},
 				{
 					"id": 7,
 					"title": "Number",
-					"value": "tel:+212612345678"
+					"value": "tel:+212609904923"
 				}
 			]
 }
